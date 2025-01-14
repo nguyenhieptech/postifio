@@ -1,6 +1,4 @@
-# Post Management App
-
-Some preview images:
+# Postifio
 
 ![image](https://github.com/nguyenhieptech/post-management-app/assets/48057064/63fe6372-0c0f-44c9-a455-ac718014fe58)
 
@@ -14,7 +12,7 @@ Some preview images:
 
 ## Backend
 
-- Techstack: NestJS (Fastify), Prisma ORM
+- Tech stack: NestJS (Fastify), Prisma ORM
 
 - Set up
 
